@@ -1,0 +1,66 @@
+.label{
+white-space:nowrap;
+text-shadow: 0 0 0.1em black, 0 0 0.1em black,
+0 0 0.1em black,0 0 0.1em black,0 0 0.1em;
+font-weight: 300;
+}
+
+
+.leaflet-marker-icon.label{
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    font-size: 10px;
+    color: coral;
+}
+/* .leaflet-marker-icon.leaflet-zoom-animated.leaflet-interactive{
+    
+} */
+
+.printButton{
+    font-size: 12px;
+    color: white;
+    background-color: #4CAF50;
+}
+
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.leaflet-marker-icon.label{
+    border-style:solid; 
+    border-color:transparent;
+}
+.row1{
+    width: 20%;
+    position:absolute;
+    right: 30px;
+    bottom: 10px;
+    height: 30%;
+    width: 17%;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+#list-home-list{
+    background-color: #555;;
+    border-color:#555;
+   
+}
+.list-group-item{
+    height: 31px;
+    border-style: solid;
+    border-color: transparent;
+    
+}
+.image{
+    width: 16px;
+    height: 16px;
+}
